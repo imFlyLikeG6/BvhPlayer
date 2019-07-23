@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<ETRI_Bone csvColummOrder="Chest,Head,Hips,LeftArm,LeftFoot,LeftForearm,LeftHand,LeftLeg,LeftShoulder,LeftThigh,RightArm,RightFoot,RightForearm,RightHand,RightLeg,RightShoulder,RightThigh">
+    <Segment ShadowName="Hips" Id="5" ShadowId="" BTId="0005" WifiId="0005" Offset="0 0 0" Channels="6 Xposition Yposition Zposition Zrotation Yrotation Xrotation">
+        <Segment ShadowName="RightThigh" Id="28" ShadowId="" BTId="001c" WifiId="001c" Offset="-8.91 -6.269997 0" Channels="3 Zrotation Yrotation Xrotation">
+            <Segment ShadowName="RightLeg" Id="26" ShadowId="" BTId="001a" WifiId="001a" Offset="0 -44.852665 -1.566289" Channels="3 Zrotation Yrotation Xrotation">
+                <Segment ShadowName="RightFoot" Id="22" ShadowId="" BTId="" WifiId="" Offset="0 -42.371404 -2.908845" Channels="3 Zrotation Yrotation Xrotation" EndSite="0 -5.50637 -2.8584">
+                    <Segment ShadowName="RightToe" Id="29" ShadowId="" BTId="" WifiId="" Offset="0 -5.506189 12.649626" Channels="3 Zrotation Yrotation Xrotation" EndSite="0 0 9.822702"/>
+                </Segment>
+            </Segment>
+        </Segment>
+        <Segment ShadowName="LeftThigh" Id="15" ShadowId="" BTId="000f" WifiId="000f" Offset="8.91 -6.269997 0" Channels="3 Zrotation Yrotation Xrotation">
+            <Segment ShadowName="LeftLeg" Id="13" ShadowId="" BTId="000d" WifiId="000d" Offset="0 -44.852665 -1.566289" Channels="3 Zrotation Yrotation Xrotation">
+                <Segment ShadowName="LeftFoot" Id="9" ShadowId="" BTId="" WifiId="" Offset="0 -42.371404 -2.908845" Channels="3 Zrotation Yrotation Xrotation" EndSite="0 -5.50637 -2.8584">
+                    <Segment ShadowName="LeftToe" Id="16" ShadowId="" BTId="" WifiId="" Offset="0 -5.506189 12.649626" Channels="3 Zrotation Yrotation Xrotation" EndSite="0 0 9.823"/>
+                </Segment>
+            </Segment>
+        </Segment>
+        <Segment ShadowName="SpineLow" Id="31" ShadowId="" BTId="" WifiId="" Offset="0 5 0" Channels="3 Zrotation Yrotation Xrotation">
+            <Segment ShadowName="SpineMid" Id="32" ShadowId="" BTId="" WifiId="" Offset="0 13.633705 -0.953362" Channels="3 Zrotation Yrotation Xrotation">
+                <Segment ShadowName="Chest" Id="2" ShadowId="" BTId="" WifiId="" Offset="0 13.59214 -1.428591" Channels="3 Zrotation Yrotation Xrotation">
+                    <Segment ShadowName="RightShoulder" Id="27" ShadowId="" BTId="" WifiId="" Offset="-5.51315 14.500153 0.381952" Channels="3 Zrotation Yrotation Xrotation">
+                        <Segment ShadowName="RightArm" Id="19" ShadowId="" BTId="" WifiId="" Offset="-12.186851 -0.000153 -3.509" Channels="3 Zrotation Yrotation Xrotation">
+                            <Segment ShadowName="RightForearm" Id="23" ShadowId="" BTId="" WifiId="" Offset="-27.231207 -1.427127 0.197588" Channels="3 Zrotation Yrotation Xrotation">
+                                <Segment ShadowName="RightHand" Id="24" ShadowId="" BTId="" WifiId="" Offset="-26.255381 -1.375986 4.635886" Channels="3 Zrotation Yrotation Xrotation">
+                                    <Segment ShadowName="RightFinger" Id="20" ShadowId="" BTId="" WifiId="" Offset="-8.753334 -0.462278 1.541268" Channels="3 Zrotation Yrotation Xrotation" EndSite="-8.753 -0.462 1.541374"/>
+                                </Segment>
+                            </Segment>
+                        </Segment>
+                    </Segment>
+                    <Segment ShadowName="LeftShoulder" Id="14" ShadowId="" BTId="" WifiId="" Offset="5.51315 14.500153 0.381952" Channels="3 Zrotation Yrotation Xrotation">
+                        <Segment ShadowName="LeftArm" Id="6" ShadowId="" BTId="" WifiId="" Offset="12.186851 -0.000153 -3.508626" Channels="3 Zrotation Yrotation Xrotation">
+                            <Segment ShadowName="LeftForearm" Id="10" ShadowId="" BTId="" WifiId="" Offset="27.231207 -1.427127 0.197588" Channels="3 Zrotation Yrotation Xrotation">
+                                <Segment ShadowName="LeftHand" Id="11" ShadowId="" BTId="" WifiId="" Offset="26.255381 -1.375986 4.635886" Channels="3 Zrotation Yrotation Xrotation">
+                                    <Segment ShadowName="LeftFinger" Id="7" ShadowId="" BTId="" WifiId="" Offset="8.753334 -0.462278 1.541268" Channels="3 Zrotation Yrotation Xrotation" EndSite="8.753 -0.462 1.541"/>
+                                </Segment>
+                            </Segment>
+                        </Segment>
+                    </Segment>
+                    <Segment ShadowName="Neck" Id="18" ShadowId="" BTId="" WifiId="" Offset="0 16 0" Channels="3 Zrotation Yrotation Xrotation">
+                        <Segment ShadowName="Head" Id="3" ShadowId="" BTId="" WifiId="" Offset="0 11.883209 0.368989" Channels="3 Zrotation Yrotation Xrotation" EndSite="0 17.890945 2.012963"/>
+                    </Segment>
+                </Segment>
+            </Segment>
+        </Segment>
+    </Segment>
+</ETRI_Bone>
